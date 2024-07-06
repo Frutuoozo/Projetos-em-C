@@ -29,3 +29,18 @@ O basico bem feito..<br>
 <strong>Biblioteca windows.h</strong> para da mais interatividade na parte de verificação <br>
 Apresenta menus de Cadastro, Login e Principal <br>
 O resto é so o basico da liguagem C
+
+## Jogo Cara ou Coroa 🔥
+Jogo simples, que irar depender da sua sorte para acerta se vai ser cara ou coroa ⚡ <br>
+Escolha Seu lado e teste sua sorte!
+
+#### ⚙ Caracteristicas:
+Usando a <strong>Biblioteca stdlib.h</strong> para gerar os numeros aleatorios e dividindo por Dois, se o resultado for resto Zero sera cara e se não sera coroa <br>
+O resto é so o basico da liguagem C
+
+## Sistema Academico 🏫
+Sistema Academico, com menu de impressão de boletim, cursos e diciplinas, menu cadastros de alunos, professores, curso e disciplinas, menu de conteudo sobre o curso selecionado pelo aluno, entre outras coisas... <br>
+Feito em sala, curso Ciência da Computação 🎒
+
+#### ⚙ Caracteristicas:
+So o basico da liguagem C
