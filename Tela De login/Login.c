@@ -58,7 +58,7 @@ int main(){
 	do{ MenuPrincipal();
 		printf("3- Sair / Voltar \n");
 		printf("=======================\n");
-		printf("                       \n"); // so par fica bonitinho
+		printf("\n"); // so par fica bonitinho e n fica grudado
 		printf("Informe o comando: ");
 		scanf("%d", &OpMenuPrinc);
 
