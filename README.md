@@ -1,7 +1,8 @@
 # Projetos em Liguagem C
-Apenas para treimar o que aprendir em liguagem C ... 😅 <br>
+Esta coleção de projetos em C foi desenvolvida apenas para treimar o que aprendir em liguagem C ... 😅 projetos para iniciantes que buscam aprimorar suas habilidades, tudo com intuito de aprendizagem! <br>
 
-Acesse aqui: <a href="#" target="_blank">Projeton A</a>
+Caso deseje ver os codigos funcionando <br>
+Copie o codigo e compile online aqui: <a href="https://www.programiz.com/c-programming/online-compiler/" target="_blank">Programiz</a>
 
 ## Jogo de adivinhação 🎯
 Um simples mas divertido jogo, com o objetivo de acerta Através de palpites o numero aleatorio que foi criado <br>
